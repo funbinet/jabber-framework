@@ -1,0 +1,16 @@
+# Strictly ignore everything by default
+*
+.*
+!.gitignore
+
+# Explicitly allow markdown and PNGs at root
+!*.md
+!*.png
+
+# Allow packaging directory and its markdown files
+!packaging/
+!packaging/*.md
+
+# Allow screenshots directory and its contents
+!screenshots/
+!screenshots/*.png
