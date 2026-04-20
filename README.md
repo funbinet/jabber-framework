@@ -1,14 +1,11 @@
+<p align="center"> <img src="jabber-logo.png" alt="jabber" width="400"/> </p>
 <div align="center">
 
-# JABBER Red Teaming Suite (JRTS)
-
-### V3 — Production-Grade • Modular • Enterprise-Ready
-
-![JABBER Logo](jabber-logo.png)
-
-**Created by [Funbinet](https://dancan.tech)** · [GitHub](https://github.com/funbinet) · [Codeberg](https://codeberg.org/funbinet)
+# JABBER RED TEAMING SUITE (JRTS)
 
 ---
+
+**Created by [Funbinet](https://dancan.tech)** · [GitHub](https://github.com/funbinet) · [Codeberg](https://codeberg.org/funbinet)
 
 ![Dashboard Overview](screenshots/01_dashboard_overview.png)
 
