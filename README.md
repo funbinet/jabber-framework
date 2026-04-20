@@ -4,7 +4,7 @@
 
 ### V3 — Production-Grade • Modular • Enterprise-Ready
 
-![JABBER Logo](jabber.png)
+![JABBER Logo](jabber-logo.png)
 
 **Created by [Funbinet](https://dancan.tech)** · [GitHub](https://github.com/funbinet) · [Codeberg](https://codeberg.org/funbinet)
 
